@@ -7,4 +7,4 @@ install latest jenkins.war and latest maven plugin
 
 */5 * * * *
 
-it will run every 5 second
+it will run every 5 minute
